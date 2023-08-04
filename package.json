@@ -1,5 +1,6 @@
 {
   "name": "react-complete-guide",
+  "homepage": "https://github.com/Mizunen/food-order-app.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +13,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://github.com/Mizunen/food-order-app.git",
+  
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
