@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mizunen/food-order-app.git/static/css/main.b79c61f3.css",
+    "main.js": "/Mizunen/food-order-app.git/static/js/main.d6e23fd7.js",
+    "static/media/meals.jpg": "/Mizunen/food-order-app.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Mizunen/food-order-app.git/index.html",
+    "main.b79c61f3.css.map": "/Mizunen/food-order-app.git/static/css/main.b79c61f3.css.map",
+    "main.d6e23fd7.js.map": "/Mizunen/food-order-app.git/static/js/main.d6e23fd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79c61f3.css",
+    "static/js/main.d6e23fd7.js"
+  ]
+}
